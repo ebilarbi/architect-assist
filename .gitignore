@@ -1,0 +1,11 @@
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+corpus_info.json
+.DS_Store
+# local settings: copy the *.example.py templates
+config.py
+chatbot_config.py
+design_review.csv
+chat_transcript.json
